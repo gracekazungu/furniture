@@ -1,0 +1,46 @@
+h1{font-size: 90px;}
+.container ul,li{
+    display: inline-flex;
+    margin-left: 60px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-between;
+    
+}
+.container button{float: right;background-color: black;color: aliceblue;padding: 15px;margin-right: 50px;}
+.container h4{font-size: 20px;}
+.content{text-align: left;}
+button{background-color: black;color: aliceblue;padding: 20px;}
+#image{float: right;width: 60%;height: 10%;}
+#img{width: 30%;height: 10%;}
+#h2{text-align: center;font-size: 60px;}
+.border{display: flex;}  
+.product{border-style: solid;background-color: aliceblue;border-color: white;}
+.track{border-style: solid; margin-left: 20px;background-color: aliceblue;border-color: white;}
+.high{border-style: solid; margin-left: 20px;background-color: aliceblue;border-color: white;}
+.fun{width: 20%;height: 10%;}
+#furn{width: 20%;height: 10%;float: right;}
+.funs{display: flex;}
+#fun4{width: 300px;}
+#fun5{width: 300px;margin-left: 50px;}
+#fun6{width: 300px;margin-left: 50px;}
+#image7{width: 200px;text-align: center;margin-right: -10%;}
+#image8{width: 300px;text-align: center;margin-right: -15%;}
+#image9{width: 500px;text-align: center;margin-right: 30%;}
+.image{display: flex;}
+#image13{width: 300px;}
+#image14{width: 400px;margin-left: 30px;}
+.imag{display: flex;}
+#image15{width: 400px;}
+#image16{width: 300px;margin-left: 30px;}
+#view{background-color: black;color: aliceblue;padding: 20px;margin-left: 250px;margin-top: 60px;}
+#image17{background-image: url(image17.jpg);width: 700px;margin: 50px;}
+.support{display: flex;}
+#app{margin-left: 60px;}
+#policy{margin-left: 60px;}
+#get{margin-left: 60px;}
+.armchair{display: flex;}
+#shell{ margin-left: 200px;}
+#caldwell{margin-left: 200px;}
+.off{background-color: aliceblue;border-style: solid;border-color: aliceblue;}
+#subscribe{background-color: black;color: aliceblue;}
